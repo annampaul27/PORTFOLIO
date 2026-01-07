@@ -1,0 +1,1 @@
+This repository contains my personal portfolio and project showcase, highlighting my key data science, analytics, AI, and software projects, along with my skills, certifications, and education details for recruiters and collaborators
